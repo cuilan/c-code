@@ -1,4 +1,6 @@
 # c-code
 
-C
+```shell
+make -C 00-make
+```
 
